@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# 不要提交：补丁备份、厂商脚本副本、日志与诊断输出
+backups/
+*.bak
+*.log
+*.orig.js
+vendor/
+diag-output*.txt
